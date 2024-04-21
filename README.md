@@ -1,5 +1,5 @@
 
-### 👨🏻‍💻 Skills
+## 👨🏻‍💻 Skills
 
   - Programming laguage
   <p align="start">ㅤㅤㅤ
@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   </p>
 
-<br/>
+<br/><br/>
 
-### :octocat: GitHub Stats
+## :octocat: GitHub Stats
 <div align="start">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uc0&theme=bear)
